@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://opereimi.github.io/LDA/sitemap_index.txt
+Sitemap: https://opereimi.github.io/LVG/sitemap_index.txt
+Sitemap: https://opereimi.github.io/TAo/sitemap_index.txt
+Sitemap: https://opereimi.github.io/jaZ/sitemap_index.txt
